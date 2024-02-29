@@ -4,7 +4,7 @@ Front-end 개발자를 꿈꾸는 친구들의 모임
 
 ### 팀 노션
 
-<a href="https://bustling-trade-bc8.notion.site/frontend-developer-f3babfab4e964102a29f92444fb7b473?pvs=4" style="text-decoration: none; color: inherit;">
+<a href="https://bustling-trade-bc8.notion.site/17cc6961770a40cdbc27c68079b25d6b?pvs=4" style="text-decoration: none; color: inherit;">
 	<img src="https://img.shields.io/badge/-Notion-202020?style=for-the-badge&logo=notion" height="25" />
 </a>
 
